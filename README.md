@@ -17,11 +17,6 @@ This is one of my first beginner projects as I learn web development.
 ## 📸 Screenshot
 ![App Screenshot](./screenshot.png)
 
-
----
-
-## 📂 Project Structure
-
 ---
 
 ## 🛠 Technologies Used
@@ -33,7 +28,7 @@ This is one of my first beginner projects as I learn web development.
 
 ## 🌱 Future Improvements
 - Add task editing  
-- Add localStorage saving  
+- Add Local storage (save tasks even after refreshing
 - Add dark mode  
 - Add animations on delete  
 
